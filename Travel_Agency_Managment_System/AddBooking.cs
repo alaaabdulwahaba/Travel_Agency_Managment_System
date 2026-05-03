@@ -19,11 +19,12 @@ namespace Travel_Agency_Managment_System
 
         private void panel5_Paint(object sender, PaintEventArgs e)
         {
-
+jkjkj
         }
 
         private void panel8_Paint(object sender, PaintEventArgs e)
         {
+        
 
         }
     }
